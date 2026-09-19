@@ -1,0 +1,6 @@
+{
+  "name": "Velozity ProjectHub",
+  "description": "Real-Time Client Project Dashboard with role-based access control, project and task tracking, live activity feed, and in-app notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
